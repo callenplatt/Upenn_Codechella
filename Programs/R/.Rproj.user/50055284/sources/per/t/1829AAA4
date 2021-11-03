@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633798201912.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "774463787",
+    "id" : "1829AAA4",
+    "lastKnownWriteTime" : 1633798848,
+    "last_content_update" : 1633798848599,
+    "path" : "~/GitHub/Upenn_Codechella/Programs/R/baker_cs.R",
+    "project_path" : "baker_cs.R",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

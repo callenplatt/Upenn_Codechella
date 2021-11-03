@@ -1,8 +1,9 @@
 library(readstata13)
 library(ggplot2)
 library(did) # Callaway & Sant'Anna
+library(haven)
 
-baker <- data.frame(read.dta13("/users/scott_cunningham/dropbox/CI Workshop/data/baker.dta"))
+baker <- data.frame(read_dta("baker.dta"))
 baker$treat_date[is.na(baker$treat_date)] <- 0 # untreated units have effective year of 0
 
 # Estimating the effect on y2 (constant) and y (dynamic treatment)
